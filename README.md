@@ -1,6 +1,10 @@
 # bubble_trouble
 
-A new Flutter project.
+
+I made BUBBLE TROUBLE game with Flutter from scratch without using any external packages.
+
+![gameimage](https://user-images.githubusercontent.com/123383795/219375820-b674f1b2-d06b-4fd4-97c7-73c4af715943.png)
+
 
 ## Getting Started
 
